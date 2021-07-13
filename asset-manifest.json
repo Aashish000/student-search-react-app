@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/student-search-react-app/static/css/main.f4d1a82e.chunk.css",
+    "main.js": "/student-search-react-app/static/js/main.87104ae6.chunk.js",
+    "main.js.map": "/student-search-react-app/static/js/main.87104ae6.chunk.js.map",
+    "runtime-main.js": "/student-search-react-app/static/js/runtime-main.21295c44.js",
+    "runtime-main.js.map": "/student-search-react-app/static/js/runtime-main.21295c44.js.map",
+    "static/js/2.ac721756.chunk.js": "/student-search-react-app/static/js/2.ac721756.chunk.js",
+    "static/js/2.ac721756.chunk.js.map": "/student-search-react-app/static/js/2.ac721756.chunk.js.map",
+    "static/js/3.28d74807.chunk.js": "/student-search-react-app/static/js/3.28d74807.chunk.js",
+    "static/js/3.28d74807.chunk.js.map": "/student-search-react-app/static/js/3.28d74807.chunk.js.map",
+    "index.html": "/student-search-react-app/index.html",
+    "static/css/main.f4d1a82e.chunk.css.map": "/student-search-react-app/static/css/main.f4d1a82e.chunk.css.map",
+    "static/js/2.ac721756.chunk.js.LICENSE.txt": "/student-search-react-app/static/js/2.ac721756.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21295c44.js",
+    "static/js/2.ac721756.chunk.js",
+    "static/css/main.f4d1a82e.chunk.css",
+    "static/js/main.87104ae6.chunk.js"
+  ]
+}
